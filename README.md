@@ -6,10 +6,10 @@ Getting Started
 
 This is a drop-in Vagrantfile for multi-platform testing of an ASP.NET Core 1.0
 app. To get started, copy `Vagrantfile` into the root directory of the app and
-run the following script to get started:
+run the following script:
 
     vagrant plugin install vagrant-hostmanager
-	vagrant up
+    vagrant up
 
 Then go to http://windows.web.dev and http://linux.web.dev and check out your app.
 
